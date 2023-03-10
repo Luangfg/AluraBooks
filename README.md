@@ -14,3 +14,5 @@
 - Links do rodapé funcionais e que podem direcionar aos links cadastrados;
 - Estilização do Menu;
 ![Captura de tela de 2023-03-10 11-59-11](https://user-images.githubusercontent.com/108825479/224348923-986b55c3-7a2c-4f85-955a-4c980f06b741.png)
+![Captura de tela de 2023-03-10 12-00-18]
+![Captura de tela de 2023-03-10 12-00-55]
