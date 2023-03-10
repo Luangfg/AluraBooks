@@ -1,0 +1,30 @@
+.redes
+{
+    padding: 1.5em ;
+}
+
+.redes__titulo
+{
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 700;
+    padding-bottom: 1em;
+}
+
+.redes__lista
+{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.redes__item
+{
+    margin: 0 1.5em;
+}
+
+.redes-sociais
+{
+    background:var(--azul-degrade) ;
+    color:var(--cor-branca);
+}
